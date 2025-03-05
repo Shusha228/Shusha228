@@ -1,9 +1,12 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
-### :fire: My Stats :
+[![160744959694494596](https://user-images.githubusercontent.com/6764957/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171.png)](https://github.com/shusha228?tab=repositories)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heaset&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://gpvc.arturio.dev/shusha228" alt="profile views"> •  
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heaset&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+<a href="https://myoctocat.dev/@shusha228/octocat">
+  <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
+</a>
